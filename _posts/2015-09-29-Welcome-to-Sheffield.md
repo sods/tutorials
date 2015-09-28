@@ -12,4 +12,4 @@ You need to register for the event here:
 
 [Eventbrite Registration](https://www.eventbrite.com/e/the-data-hide-tickets-18817784500)
 
-If you want to know about future events like this please 'like' [our Facebook page](
+If you want to know about future events like this please 'like' [our Facebook page](https://www.facebook.com/odsi.sheffield) or [follow us on Twitter](https://twitter.com/datascienceshef)
