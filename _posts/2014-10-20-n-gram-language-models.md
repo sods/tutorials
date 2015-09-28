@@ -1,6 +1,9 @@
 ---
 layout: post
 title: *n*-gram Language Models
+categories:
+- n-gram models
+- Non Academic 2
 ---
 
 Discussion of [*n-grams*](http://en.wikipedia.org/wiki/N-gram) and how

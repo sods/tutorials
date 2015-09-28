@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Preparation for Daniel Bernhardt Visit
+categories:
+- Daniel Bernhardt
+- Facebook
+- n-gram
+- dynamic programming
 ---
 
 

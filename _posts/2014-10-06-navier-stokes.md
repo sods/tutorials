@@ -1,13 +1,21 @@
 ---
 layout: post
-title: Navier Stokes Equations
+title: Mathematics and Computer Science
+categories:
+- Navier Stokes
+- differential equations
+- n-gram models
+- incompleteness theorems
+- Principia Mathematica
+- Turing test
+- Barber paradox
 ---
 We talked about [*Navier Stokes
 equations*](http://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 and how they are a mathematical abstraction of the world around us. We
 talked about how such differential equations cannot necessarily be
 solved in practice, and therefore we need to form numerical solutions.
-We mentioned that the Met office solves these equations on 1km^2^ sized
+We mentioned that the Met office solves these equations on 1km^2 sized
 grids across UK for weather prediction. We discussed a little what
 uncertainty meant in this context, and how modelling could have a
 deterministic part and a stochastic part.
@@ -22,9 +30,7 @@ particularly pure mathematics, there is a lot of interest in
 alone, outside implementation, emerging purely through abstract thought.
 We looked at the wikipedia page for [*Principia
 Mathematica*](http://en.wikipedia.org/wiki/Principia_Mathematica) and
-talked a little about set theory with a focus on [*Godel's
-incompleteness
-theorem*](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+talked a little about set theory with a focus on [*Godel's incompleteness theorem*](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 and the [*barber paradox*](http://en.wikipedia.org/wiki/Barber_paradox).
 
 In the end we talked about the Spell Correction challenge for internet

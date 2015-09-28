@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Daniel Bernhardt Visit
+categories:
+- Daniel Bernhardt
+- Facebook
+- spelling
+- edit distance
+- hash table
 ---
 
 Daniel is visiting from Facebook London where he’s been working for just
@@ -82,7 +88,7 @@ else.
 Non-Academic 4
 --------------
 
-Read through the[ *Computer Science First Year’s Tutorial
+Read through the[*Computer Science First Year’s Tutorial
 Booklet*](http://www.dcs.shef.ac.uk/intranet/teaching/public/tutorials/level1/firstyeartutorials.pdf)
 on *exam skills*. Read old exam papers and think about what the
 question’s aims are. How to DCS and SoMaS differ in their exam question
