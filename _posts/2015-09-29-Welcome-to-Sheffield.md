@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Welcome to Sheffield!
 categories:
 - welcome
