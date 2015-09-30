@@ -3,6 +3,8 @@ layout: post
 title: "Computer Science and Math Interface: Background"
 ---
 
+Venue: Ada Lovelace Room, Regent Court
+
 Many computer science departments were spun out of mathematics departments in the 1980s (including Sheffield's!), but there is a historical connection between the two departments that has meant that dual degrees are relatively common.
 
 In Sheffield, the original main link was between areas such as formal methods and pure mathematics. Verification of code for example. This relates to Godel's incompleteness theorem and Alan Turing's "Turing Machine". The focus was on the computability of numbers.
