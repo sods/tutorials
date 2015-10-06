@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Preparation for Daniel Bernhardt Visit
-categories:
+tagline: Rules of probability and *n*-gram models and probable paths.
+venue: "G22, Regent Court"
+subjects:
 - Daniel Bernhardt
 - Facebook
 - n-gram

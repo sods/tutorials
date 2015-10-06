@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Mathematics and Computer Science
-categories:
+venue: Barber House
+tagline: Navier Stokes equatios and Principia Mathematica
+subjects:
 - Navier Stokes
 - differential equations
 - n-gram models

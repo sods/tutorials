@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Daniel Bernhardt Visit
-categories:
+tagline: "Spelling on facebook, search engines and the social graph"
+venue: "G22, Regent Court"
+subjects:
 - Daniel Bernhardt
 - Facebook
 - spelling

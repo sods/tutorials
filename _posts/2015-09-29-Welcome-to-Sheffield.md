@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Welcome to Sheffield!
-categories:
+venue: [The Hide](https://www.facebook.com/TheHideS3)
+tagline: Beer and street food in a city-center art-space to welcome you to Sheffield
+subjects:
 - welcome
 - The Data Hide
 ---
