@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Science and Math Interface: Background"
+§221title: "Computer Science and Math Interface: Background"
 tagline: "Computers, mathematics, data and society"
 time: 16:00
 venue: "IC 1.26, Information Commons"
