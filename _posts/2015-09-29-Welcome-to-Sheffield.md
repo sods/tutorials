@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Welcome to Sheffield!
-venue: [The Hide](https://www.facebook.com/TheHideS3)
+venue: "[The Hide](https://www.facebook.com/TheHideS3)"
+time: 16:00
 tagline: Beer and street food in a city-center art-space to welcome you to Sheffield
 subjects:
 - welcome

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Computer Science and Math Interface: Background"
+tagline: "Computers, mathematics, data and society"
+time: 16:00
+venue: "IC 1.26, Information Commons"
 ---
-
-Venue: IC-126 in Information Commons
 
 Many computer science departments were spun out of mathematics departments in the 1980s (including Sheffield's!), but there is a historical connection between the two departments that has meant that dual degrees are relatively common.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: *n*-gram Language Models
-venue: G22 in Regent Court
-tagline: *n*-gram models and probability distributions
+title: "*n*-gram Language Models"
+venue: "G22, Regent Court"
+tagline: "*n*-gram models and probability distributions"
 subjects:
 - n-gram models
 - Non Academic 2

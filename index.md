@@ -6,7 +6,7 @@ tagline: Tutorials at Interface of CS and Maths
 # Tutorials
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | prepend: site.baseurl }}) 17:00 on {{ post.date | date: "%b %-d, %Y" }} at {{ post.venue }} {{ post.tagline }}
+- [{{ post.title }}]({{ post.url | prepend: site.baseurl }}) {% if post.time %} {{ post.time }} {% endif %} on {{ post.date | date: "%b %-d, %Y" }} {% if post.venue %}at **{{ post.venue }}**.{% endif %} {{ post.tagline }}.
 {% endfor %}
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
