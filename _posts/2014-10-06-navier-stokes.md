@@ -2,7 +2,7 @@
 layout: post
 title: Mathematics and Computer Science
 venue: Barber House
-tagline: Navier Stokes equatios and Principia Mathematica
+tagline: Navier Stokes equations and Principia Mathematica
 subjects:
 - Navier Stokes
 - differential equations
