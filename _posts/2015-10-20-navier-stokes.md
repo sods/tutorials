@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematics and Computer Science: The Interface
+title: "Mathematics and Computer Science: The Interface"
 venue: The Hide, Scotland Street
 tagline: Navier Stokes equations and Principia Mathematica
 date: 2015-10-20 16:00
