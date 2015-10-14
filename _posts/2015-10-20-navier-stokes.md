@@ -23,3 +23,9 @@ Think about the relationship between Computer Science and Maths. In absolute ter
 Have a look at the Wikipedia page for [*Principia Mathematica*](http://en.wikipedia.org/wiki/Principia_Mathematica) and [*Godel's incompleteness theorem*](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) as well as the [*Barber Paradox*](http://en.wikipedia.org/wiki/Barber_paradox). How does this sort of pure mathematical thinking effect Computer Science?
 
 Tutorial will be followed by a ["Data Hide"](http://opendsi.cc/datahide//2015/10/20/RDM-ai.html). If you are staying, you need to sign up for it [here](https://www.eventbrite.co.uk/e/the-data-hide-tickets-19038564860).
+
+Non-Academic 2
+--------------
+
+Read through the[ *Computer Science First Year’s Tutorial
+Booklet*](http://www.dcs.shef.ac.uk/intranet/teaching/public/tutorials/level1/firstyeartutorials.pdf) on *unfair means and plagiarism*. You need to fill in the form provided and prepare to submit your answers to MOLE2. (Semester 1, week 4).
