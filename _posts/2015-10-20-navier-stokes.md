@@ -26,5 +26,5 @@ Tutorial will be followed by a ["Data Hide"](http://opendsi.cc/datahide//2015/10
 
 ## Non-Academic Task
 
-Read through the[ *Computer Science First Year’s Tutorial
+Before this tutorial you also need to read through the[ *Computer Science First Year’s Tutorial
 Booklet*](http://www.dcs.shef.ac.uk/intranet/teaching/public/tutorials/level1/firstyeartutorials.pdf) on *unfair means and plagiarism*. You need to fill in the form provided and prepare to submit your answers to MOLE2. (Semester 1, week 4).
